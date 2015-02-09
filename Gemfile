@@ -18,6 +18,7 @@ gem 'twitter-bootstrap-rails', '~> 3.2.0'
 gem "font-awesome-rails"
 gem 'simple_form', '~> 3.1.0'
 gem 'devise'
+gem "auto_html"
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
